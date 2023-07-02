@@ -1,3 +1,3 @@
 # ColorPal
-cd colorpal
-npx expo start
+- cd colorpal
+- npx expo start
