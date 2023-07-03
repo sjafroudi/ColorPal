@@ -1,5 +1,8 @@
 # ColorPal
 
+- cd colorpal
+- npx expo start
+
 ### tech stack:
 
 #### frontend:
