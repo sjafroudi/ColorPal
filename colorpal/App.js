@@ -1,10 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import Cards from './Card';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>COLOR PAL!</Text>
+      {/* <Text>COLOR PAL!</Text> */}
+      <Cards></Cards>
       <StatusBar style="auto" />
     </View>
   );
