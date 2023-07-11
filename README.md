@@ -21,3 +21,4 @@
 #### framework:
 
 - Flask
+- TypeScript

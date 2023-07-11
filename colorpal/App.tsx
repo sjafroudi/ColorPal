@@ -1,11 +1,11 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
-import AwesomeButton from "./components/UploadPic";
+import UploadPic from "./components/UploadPic";
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <AwesomeButton />
+      <UploadPic />
       <Text>Open up App.js to start working on your app!</Text>
       <StatusBar style="auto" />
     </View>
