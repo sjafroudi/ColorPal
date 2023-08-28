@@ -1,5 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
+// import StyleSheet from "react-native";
 import UploadPic from "./components/UploadPic";
 
 export default function App() {
